@@ -1,0 +1,28 @@
+title: DEX Market Fragility Lab
+type: Project
+authors: Denis Novgorodov
+venue: Independent Research Project
+volume: ""
+year: 2026
+pages: ""
+doi: ""
+summary: >-
+  A local research bench demonstrating how thin-liquidity DEX token markets can be distorted by coordinated activity, apparent volume, and liquidity shocks. The project is designed to communicate why public on-chain data does not automatically make a market fair, organic, or safe to trade.
+abstract: >-
+  DEX Market Fragility Lab is a local-only research project that models the lifecycle of a token market in a simplified automated market maker environment. It uses synthetic wallets, simulated liquidity operations, price-impact calculations, and event logging to show how shallow decentralized markets can become highly sensitive to coordinated actions. The project was created to demonstrate how easily DEX token markets can be manipulated or misread, especially when liquidity is thin and apparent activity is mistaken for genuine demand. Its purpose is educational and analytical: to make the mechanics of market fragility visible, explain why decentralized markets can be structurally vulnerable, and show why trading in such environments can be unreliable and high-risk.
+tags:
+  - DeFi
+  - DEX
+  - AMM
+  - market microstructure
+  - liquidity risk
+  - on-chain analysis
+  - market manipulation risk
+  - blockchain security
+cover_image_url: assets/cover.svg
+pdf_url: ""
+data_url: ""
+poster_url: ""
+extra_links:
+  - label: GitHub repository
+    url: https://github.com/denisnovgorodov/dex-market-fragility-lab

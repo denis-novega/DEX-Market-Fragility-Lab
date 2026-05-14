@@ -1,0 +1,15 @@
+[project]
+name = "dex-market-fragility-lab"
+version = "0.1.0"
+description = "Local-only AMM simulation for DEX market fragility research"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Denis Novgorodov" }]
+license = { text = "MIT" }
+keywords = ["defi", "dex", "amm", "market-microstructure", "liquidity-risk"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
