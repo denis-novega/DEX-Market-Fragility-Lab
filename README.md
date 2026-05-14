@@ -63,6 +63,4 @@ The script prints a compact event log and saves a CSV report to `data/scenario_r
 
 The simulation should be read as a risk demonstration, not as a market strategy. It shows how price and volume can be shaped by liquidity depth and synthetic activity, especially when a pool has shallow reserves. In such environments, on-chain metrics can be technically public but economically misleading.
 
-## Author
-
-Denis Novgorodov, 2026.
+P.S - if interested in live scripts - contact
